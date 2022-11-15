@@ -10,7 +10,7 @@ The runtime Node.js must be installed, after which all necessary packages can be
 
 ## Usage
 
-The created site acts as a text editor which may be either open in a web browser or may be installed on the desktop. The site may be used while offline and stores entered text when closing a seesion.
+The created site acts as a text editor which may be either opened in a web browser or may be installed and used from the desktop by clicking on the black install button on the site page. The site may be used while offline and stores entered text when closing a seesion.
 
 ## Credits
 
