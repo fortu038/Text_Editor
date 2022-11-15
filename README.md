@@ -23,6 +23,6 @@ Please refer to the license in the repo
 ## Links and Images
 Github Repo URL: https://github.com/fortu038/Text_Editor
 
-Active Site URL: 
+Active Site URL: https://texteditor-production.up.railway.app/
 
 ![A screen of Just Another Text Editor](./assets/images/text-editor-site-screenshot.jpg)
